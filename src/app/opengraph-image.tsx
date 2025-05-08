@@ -51,7 +51,7 @@ export default async function Image() {
             textAlign: "center",
           }}
         >
-          it's never just that simple
+          it&apos;s never just that simple
         </div>
       </div>
     ),
