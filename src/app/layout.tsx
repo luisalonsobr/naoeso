@@ -11,6 +11,30 @@ const merriweather = Merriweather({
 export const metadata: Metadata = {
   title: "neverjust",
   description: "it's never just that simple",
+  openGraph: {
+    title: "neverjust",
+    description:
+      "A guide to better developer communication - it's never just that simple",
+    url: "https://neverjust.net",
+    siteName: "neverjust",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "neverjust - A guide to better developer communication",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "neverjust",
+    description:
+      "A guide to better developer communication - it's never just that simple",
+    images: ["/og-image.png"],
+  },
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
