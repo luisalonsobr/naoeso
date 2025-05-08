@@ -1,7 +1,5 @@
 import typographyPlugin from "@tailwindcss/typography";
 
-import { withUt } from "uploadthing/tw";
-
 export default {
   content: ["./src/**/*.{js,mjs,jsx,ts,tsx,mdx}"],
   darkMode: "selector",
