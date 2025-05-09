@@ -1,4 +1,4 @@
-# NeverJust
+# Não é só
 
 Um guia curto para melhorar a comunicação entre desenvolvedores.
 
