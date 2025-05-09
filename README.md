@@ -1,17 +1,19 @@
 # NeverJust
 
-A short guide to better developer communication.
+Um guia curto para melhorar a comunicação entre desenvolvedores.
 
-This is a living document. If you have suggestions for improvement or want to share your own experiences, please [open an issue](https://github.com/markflorkowski/neverjust/issues) or submit a pull request.
+Este é um documento vivo. Se você tiver sugestões de melhoria ou quiser compartilhar suas próprias experiências, por favor [abra um problema](https://github.com/luisalonsobr/naoeso/issues) ou envie um pull request.
 
-Let's work together to make developer communication more empathetic and effective.
+Vamos trabalhar juntos para tornar a comunicação entre desenvolvedores mais empática e eficaz.
 
-## Contributing
+## Contribuindo
 
-1. Fork the repository
-2. Install dependencies: `pnpm install`
-3. Start the dev server: `pnpm dev`
-4. Make your changes
-5. Submit a pull request
+1. Faça um fork do repositório  
+2. Instale as dependências: `pnpm install`  
+3. Inicie o servidor de desenvolvimento: `pnpm dev`  
+4. Faça suas alterações  
+5. Envie um pull request  
 
-This project uses Next.js, Tailwind CSS, and MDX. The development server will be available at [http://localhost:3000](http://localhost:3000).
+Este projeto usa Next.js, Tailwind CSS e MDX. O servidor de desenvolvimento estará disponível em [http://localhost:3000](http://localhost:3000).
+
+[Baseado em](https://github.com/markflorkowski/neverjust)
